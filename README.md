@@ -70,7 +70,7 @@ If you want to write it as an exe program, the following steps are required:
 
 Note: Packaging as exe will generate a virus and requires signature. Otherwise, it will be added to the whitelist.
 
-
+中文注解：
 
 安装依赖：
 
